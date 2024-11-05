@@ -1,0 +1,3 @@
+*.json
+vite.config.js
+.DS_Store
